@@ -1,8 +1,10 @@
 # https://github.com/jorge07/alpine-php
 
-FROM bravist/php-cli-alpine-aliyun-app:1.12
+FROM never615/php-cli-alpine-aliyun-app:1.0
 
 MAINTAINER bravist <chenghuiyong1987@gmail.com>
+MAINTAINER never615 <never615@gmail.com>
+
 
 # https://pkgs.alpinelinux.org/packages
 
